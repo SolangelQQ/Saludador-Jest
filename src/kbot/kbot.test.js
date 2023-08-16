@@ -1,4 +1,4 @@
-const Kbot = require("./Kbot");
+const Kbot = require("./kbot");
 
 /*console.log("Saludar a Andrés en idioma default".toUpperCase());
 let kbot = new Kbot();
